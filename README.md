@@ -18,7 +18,7 @@
 - [G.7721_v1.00_20181014a+gendoc.1](./G.7721_v1.00_20181014a+gendoc.1.docx)
 
 ### Augmentation Condition
-- to be provided
+- When statement in Augmentation statement demands for LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER
 
 ### YANG File
 - to be provided
