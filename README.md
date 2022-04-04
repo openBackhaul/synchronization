@@ -6,16 +6,16 @@
 - 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica
 
 ### UML
-- [G.7721_v1.00_20181014a](./G.7721_v1.00_20181014a.zip)
+- [Synchronization_1.0.0-tsp.220404.1830](./Synchronization_1.0.0-tsp.220404.1830.zip)
 
 ### Underlying Standard
 - [T-REC-G.7721-201811](./T-REC-G.7721-201811.pdf)
 
 ### Overview 
-- to be provided
+- [Synchronization_1.0.0-tsp.220404.1830+overview.1](./Synchronization_1.0.0-tsp.220404.1830+overview.1.png)
 
 ### GenDoc Export
-- [G.7721_v1.00_20181014a+gendoc.1](./G.7721_v1.00_20181014a+gendoc.1.docx)
+- [Synchronization_1.0.0-tsp.220404.1830+gendoc.1](./Synchronization_1.0.0-tsp.220404.1830+gendoc.1.doc)
 
 ### Augmentation Condition
 - When statement in Augmentation statement demands for LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER
