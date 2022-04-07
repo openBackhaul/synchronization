@@ -21,7 +21,7 @@
 - When statement in Augmentation statement demands for LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER
 
 ### YANG File
-- [Synchronization_1.0.0-tsp.220406.1230+yang.1](./Synchronization_1.0.0-tsp.220406.1230+yang.1.zip)
+- [Synchronization_1.0.0-tsp.220406.1230+yang.2](./Synchronization_1.0.0-tsp.220406.1230+yang.2.zip)
 
 ### JSON Schema
 - to be provided
