@@ -18,7 +18,7 @@
 - [Synchronization_1.0.0-tsp.220406.1230+gendoc.1](./Synchronization_1.0.0-tsp.220406.1230+gendoc.1.doc)
 
 ### Augmentation Condition
-- When statement in Augmentation statement demands for LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER
+- When statement in Augmentation statement demands for either LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER or LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PTP_LAYER
 
 ### YANG File
 - [Synchronization_1.0.0-tsp.220406.1230+yang.2](./Synchronization_1.0.0-tsp.220406.1230+yang.2.zip)
