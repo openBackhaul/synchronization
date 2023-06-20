@@ -7,7 +7,8 @@
 
 ### UML
 - [Synchronization_1.0.0-tsp.220406.1230](./Synchronization_1.0.0-tsp.220406.1230.zip)
-- [Synchronization_1.0.0-tsi.230619.1840](./Synchronization_1.0.0-tsi.230619.1840.zip)  
+- [Synchronization_1.0.0-tsi.230619.1840](./Synchronization_1.0.0-tsi.230619.1840.zip)
+- [Synchronization_1.0.0-tsi.230620.1445](./Synchronization_1.0.0-tsi.230620.1445.zip)  
 
 ### Underlying Standard
 - [T-REC-G.7721-201811](./T-REC-G.7721-201811.pdf)
