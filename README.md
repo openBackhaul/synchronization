@@ -6,24 +6,22 @@
 - 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica
 
 ### UML
-- [Synchronization_1.0.0-tsp.220406.1230](./Synchronization_1.0.0-tsp.220406.1230.zip)
-- [Synchronization_1.0.0-tsi.230619.1840](./Synchronization_1.0.0-tsi.230619.1840.zip)
-- [Synchronization_1.0.0-tsi.230620.1445](./Synchronization_1.0.0-tsi.230620.1445.zip)  
+- [Synchronization_1.0.0-tsi.230621.1030](./Synchronization_1.0.0-tsi.230621.1030.zip)
 
 ### Underlying Standard
 - [T-REC-G.7721-201811](./T-REC-G.7721-201811.pdf)
 
 ### Overview 
-- [Synchronization_1.0.0-tsp.220406.1230+overview.1](./Synchronization_1.0.0-tsp.220406.1230+overview.1.png)
+- [Synchronization_1.0.0-tsi.230621.1030+overview.1](./Synchronization_1.0.0-tsi.230621.1030+overview.1.png)
 
 ### GenDoc Export
-- [Synchronization_1.0.0-tsp.220406.1230+gendoc.1](./Synchronization_1.0.0-tsp.220406.1230+gendoc.1.doc)
+- [Synchronization_1.0.0-tsi.230621.1030+gendoc.1](./Synchronization_1.0.0-tsi.230621.1030+gendoc.1.doc)
 
 ### Augmentation Condition
 - When statement in Augmentation statement demands for either LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER or LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PTP_LAYER
 
 ### YANG File
-- [Synchronization_1.0.0-tsp.220406.1230+yang.2](./Synchronization_1.0.0-tsp.220406.1230+yang.2.zip)
+- [Synchronization_1.0.0-tsi.230621.1030+yang.1](./Synchronization_1.0.0-tsi.230621.1030+yang.1.zip)
 
 ### JSON Schema
 - to be provided
