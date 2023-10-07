@@ -6,22 +6,26 @@
 - 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica
 
 ### UML
-- [Synchronization_1.0.0-tsi.230621.1030](./Synchronization_1.0.0-tsi.230621.1030.zip)
+- [Synchronization_1.0.0-tsi.230621.1030](./Synchronization_1.0.0-tsi.230621.1030.zip) (deprecated)
+- [Synchronization_1.0.0-tsi.231007.1600](./Synchronization_1.0.0-tsi.231007.1600.zip)
 
 ### Underlying Standard
 - [T-REC-G.7721-201811](./T-REC-G.7721-201811.pdf)
 
 ### Overview 
-- [Synchronization_1.0.0-tsi.230621.1030+overview.1](./Synchronization_1.0.0-tsi.230621.1030+overview.1.png)
+- [Synchronization_1.0.0-tsi.230621.1030+overview.1](./Synchronization_1.0.0-tsi.230621.1030+overview.1.png) (deprecated)
+- [Synchronization_1.0.0-tsi.231007.1600+overview.1](./Synchronization_1.0.0-tsi.231007.1600+overview.1.png)
 
 ### GenDoc Export
-- [Synchronization_1.0.0-tsi.230621.1030+gendoc.1](./Synchronization_1.0.0-tsi.230621.1030+gendoc.1.doc)
+- [Synchronization_1.0.0-tsi.230621.1030+gendoc.1](./Synchronization_1.0.0-tsi.230621.1030+gendoc.1.doc) (deprecated)
+- [Synchronization_1.0.0-tsi.231007.1600+gendoc.1](./Synchronization_1.0.0-tsi.231007.1600+gendoc.1.doc)
 
 ### Augmentation Condition
 - When statement in Augmentation statement demands for either LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER or LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PTP_LAYER
 
 ### YANG File
-- [Synchronization_1.0.0-tsi.230621.1030+yang.1](./Synchronization_1.0.0-tsi.230621.1030+yang.1.zip)
+- [Synchronization_1.0.0-tsi.230621.1030+yang.1](./Synchronization_1.0.0-tsi.230621.1030+yang.1.zip) (deprecated)
+- [Synchronization_1.0.0-tsi.231007.1600+yang.1](./Synchronization_1.0.0-tsi.231007.1600+yang.1.zip)
 
 ### JSON Schema
 - to be provided
