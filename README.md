@@ -1,6 +1,5 @@
 # synchronization
 - Augmentation to the ONF Core IM for managing synchronization according to ITU-T G.7721-2018
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 
 ### Branch
 - 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica
