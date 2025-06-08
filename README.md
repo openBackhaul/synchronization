@@ -32,7 +32,8 @@
 - to be provided
 
 ### Publication
-- Candidate for ONF TR-532 v2.0
+- Published as a part of ONF TR-532 v2.0  
+- Updates planned to be published in future LinuxFoundation Specification  
 
 ### Aspired Model Classification
 - Live Network
