@@ -16,8 +16,11 @@
 ### GenDoc Export
 - [Synchronization_1.0.0-tsi.240103.1035+gendoc.1](./Synchronization_1.0.0-tsi.240103.1035+gendoc.1.doc)
 
-### Augmentation Condition
-- When statement in Augmentation statement demands for either LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER or LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PTP_LAYER
+### Augmentation Condition  
+- When statement in Augmentation statement demands for either  
+  - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER or  
+  - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PTP_LAYER or  
+  - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PPS_AND_TOD_LAYER  
 
 ### YANG File
 - [Synchronization_1.0.0-tsi.240103.1035+yang.1](./Synchronization_1.0.0-tsi.240103.1035+yang.1.zip)
