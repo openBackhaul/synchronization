@@ -20,7 +20,9 @@
 - When statement in Augmentation statement demands for either  
   - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER or  
   - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PTP_LAYER or  
-  - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PPS_AND_TOD_LAYER  
+  - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PPS_LAYER or  
+  - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_TOD_LAYER  
+  - (LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PPS_AND_TOD_LAYER deprecated)  
 
 ### YANG File
 - [Synchronization_1.0.0-tsi.240103.1035+yang.1](./Synchronization_1.0.0-tsi.240103.1035+yang.1.zip)
