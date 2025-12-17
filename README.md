@@ -2,19 +2,23 @@
 - Augmentation to the ONF Core IM for managing synchronization according to ITU-T G.7721-2018
 
 ### Branch
-- 1.0.0-tsi.d.t : Model for the Transport SDN Introduction at Telefonica
+- 1.0.0-ts.d.t : Model for the Transport SDN at Telefonica
 
 ### UML
 - [Synchronization_1.0.0-tsi.240103.1035](./Synchronization_1.0.0-tsi.240103.1035.zip)
+- [Synchronization_1.0.0-ts.241217.1240](./Synchronization_1.0.0-ts.241217.1240.zip)
 
 ### Underlying Standard
 - [T-REC-G.7721-201811](./T-REC-G.7721-201811.pdf)
 
 ### Overview 
 - [Synchronization_1.0.0-tsi.240103.1035+overview.1](./Synchronization_1.0.0-tsi.240103.1035+overview.1.png)
+- [Synchronization_1.0.0-ts.241217.1240+changes](./Synchronization_1.0.0-ts.241217.1240+changes.png)
+- [Synchronization_1.0.0-ts.241217.1240+overview.1](./Synchronization_1.0.0-ts.241217.1240+overview.1.png)
 
 ### GenDoc Export
 - [Synchronization_1.0.0-tsi.240103.1035+gendoc.1](./Synchronization_1.0.0-tsi.240103.1035+gendoc.1.doc)
+- [Synchronization_1.0.0-ts.241217.1240+gendoc.1](./Synchronization_1.0.0-ts.241217.1240+gendoc.1.doc)
 
 ### Augmentation Condition  
 - When statement in Augmentation statement demands for either  
