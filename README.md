@@ -6,19 +6,19 @@
 
 ### UML
 - [Synchronization_1.0.0-tsi.240103.1035](./Synchronization_1.0.0-tsi.240103.1035.zip)
-- [Synchronization_1.0.0-ts.241217.1240](./Synchronization_1.0.0-ts.241217.1240.zip)
+- [Synchronization_1.0.0-ts.251217.1240](./Synchronization_1.0.0-ts.251217.1240.zip)
 
 ### Underlying Standard
 - [T-REC-G.7721-201811](./T-REC-G.7721-201811.pdf)
 
 ### Overview 
 - [Synchronization_1.0.0-tsi.240103.1035+overview.1](./Synchronization_1.0.0-tsi.240103.1035+overview.1.png)
-- [Synchronization_1.0.0-ts.241217.1240+changes](./Synchronization_1.0.0-ts.241217.1240+changes.png)
-- [Synchronization_1.0.0-ts.241217.1240+overview.1](./Synchronization_1.0.0-ts.241217.1240+overview.1.png)
+- [Synchronization_1.0.0-ts.251217.1240+changes](./Synchronization_1.0.0-ts.251217.1240+changes.png)
+- [Synchronization_1.0.0-ts.251217.1240+overview.1](./Synchronization_1.0.0-ts.251217.1240+overview.1.png)
 
 ### GenDoc Export
 - [Synchronization_1.0.0-tsi.240103.1035+gendoc.1](./Synchronization_1.0.0-tsi.240103.1035+gendoc.1.doc)
-- [Synchronization_1.0.0-ts.241217.1240+gendoc.1](./Synchronization_1.0.0-ts.241217.1240+gendoc.1.doc)
+- [Synchronization_1.0.0-ts.251217.1240+gendoc.1](./Synchronization_1.0.0-ts.251217.1240+gendoc.1.doc)
 
 ### Augmentation Condition  
 - When statement in Augmentation statement demands for either  
@@ -30,6 +30,7 @@
 
 ### YANG File
 - [Synchronization_1.0.0-tsi.240103.1035+yang.1](./Synchronization_1.0.0-tsi.240103.1035+yang.1.zip)
+- [Synchronization_1.0.0-ts.251217.1240+yang.1](./Synchronization_1.0.0-ts.251217.1240+yang/synchronization-1-0.yang)
 
 ### JSON Schema
 - to be provided
