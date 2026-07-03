@@ -1,54 +1,70 @@
-# synchronization
-- Augmentation to the ONF Core IM for managing synchronization according to ITU-T G.7721-2018
+# Synchronization
 
-### Branch
-- 1.0.0-ts.d.t : Model for the Transport SDN at Telefonica
+Augmentation to the ONF Core IM for managing synchronization according to ITU-T G.7721-2018
 
-### UML
+## Branch
+
+1.0.0-ts.d.t : Model for the Transport SDN at Telefonica
+
+## UML
+
 - [Synchronization_1.0.0-tsi.240103.1035](./Synchronization_1.0.0-tsi.240103.1035.zip)
-- [Synchronization_1.0.0-ts.260302.1200](./Synchronization_1.0.0-ts.260302.1200.zip)
+- [Synchronization_1.0.0-ts.260703.1535](./Synchronization_1.0.0-ts.260703.1535.zip)
 
-### Underlying Standard
-- [T-REC-G.7721-201811](./T-REC-G.7721-201811.pdf)
+## Underlying Standard
 
-### Overview 
+[T-REC-G.7721-201811](./T-REC-G.7721-201811.pdf)
+
+## Overview
+
 - [Synchronization_1.0.0-tsi.240103.1035+overview.1](./Synchronization_1.0.0-tsi.240103.1035+overview.1.png)
-- [Synchronization_1.0.0-ts.260302.1200+overview.1](./Synchronization_1.0.0-ts.260302.1200+overview.1.png)
+- [Synchronization_1.0.0-ts.260703.1535+overview.1](./Synchronization_1.0.0-ts.260703.1535+overview.1.png)
 
-### GenDoc Export
+## GenDoc Export
+
 - [Synchronization_1.0.0-tsi.240103.1035+gendoc.1](./Synchronization_1.0.0-tsi.240103.1035+gendoc.1.doc)
-- [Synchronization_1.0.0-ts.260302.1200+gendoc.1](./Synchronization_1.0.0-ts.260302.1200+gendoc.1.doc)
+- [Synchronization_1.0.0-ts.260703.1535+gendoc.1](./Synchronization_1.0.0-ts.260703.1535+gendoc.1.doc)
 
-### Augmentation Condition  
-- When statement in Augmentation statement demands for either  
-  - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER or  
-  - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PTP_LAYER or  
-  - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PPS_LAYER or  
-  - LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_TOD_LAYER  
-  - (LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PPS_AND_TOD_LAYER deprecated)  
+## Augmentation Condition
 
-### YANG File
+When statement in Augmentation statement demands for either  
+
+- LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER or  
+- LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PTP_LAYER or  
+- LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PPS_LAYER or  
+- LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_TOD_LAYER  
+- (LayerProtocol::layerProtocolName==LAYER_PROTOCOL_NAME_TYPE_PPS_AND_TOD_LAYER deprecated)  
+
+## YANG File
+
 - [Synchronization_1.0.0-tsi.240103.1035+yang.1](./Synchronization_1.0.0-tsi.240103.1035+yang.1.zip)
-- [Synchronization_1.0.0-ts.260302.1200+yang.1](./Synchronization_1.0.0-ts.260302.1200+yang/synchronization-1-0.yang)
+- [Synchronization_1.0.0-ts.260703.1535+yang.1](./Synchronization_1.0.0-ts.260703.1535+yang/synchronization-1-0.yang)
 
-### JSON Schema
+## JSON Schema
+
 - to be provided
 
-### Interface Simulator
+## Interface Simulator
+
 - to be provided
 
-### Interface Validator
+## Interface Validator
+
 - to be provided
 
-### Publication
+## Publication
+
 - Published as a part of ONF TR-532 v2.0  
 - Updates planned to be published in future LinuxFoundation Specification  
 
-### Aspired Model Classification
-- Live Network
+## Aspired Model Classification
 
-### Open Issue List
-- [synchronization/issues](../../issues)
+Live Network
 
-### Comments
+## Open Issue List
+
+[synchronization/issues](../../issues)
+
+## Comments
+
 ./.
